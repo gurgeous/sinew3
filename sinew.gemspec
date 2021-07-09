@@ -3,7 +3,7 @@ $LOAD_PATH.unshift("#{__dir__}/lib")
 require 'sinew/version'
 
 Gem::Specification.new do |s|
-  s.name        = 'sinew'
+  s.name        = 'sinew3'
   s.version     = Sinew::VERSION
   s.license     = 'MIT'
   s.authors     = [ 'Adam Doppelt', 'Nathan Kriege' ]
